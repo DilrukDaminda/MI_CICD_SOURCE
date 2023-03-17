@@ -13,9 +13,9 @@
     <module>JenkingTestCompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/DilrukDaminda/VCS_Source.git</connection>
-    <developerConnection>scm:git:https://github.com/DilrukDaminda/VCS_Source.git</developerConnection>
-    <url>https://github.com/DilrukDaminda/VCS_Source.git</url>
+    <connection>scm:git:https://github.com/DilrukDaminda/MI_CICD_SOURCE.git</connection>
+    <developerConnection>scm:git:https://github.com/DilrukDaminda/MI_CICD_SOURCE.git</developerConnection>
+    <url>https://github.com/DilrukDaminda/MI_CICD_SOURCE.git</url>
   </scm>
   <distributionManagement>
     <repository>
